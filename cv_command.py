@@ -5,6 +5,8 @@
 # TurtleBot set up: https://github.com/goromal/lab_turtlebot
 # The repo for the image processing part of the project is located here:
 # https://github.com/jakelarsen17/TurtleBot-Follow-Person
+# The 'MobileNetSSD' files in the repo are needed to run and define a trained machine learning model 
+# that can be used for a variety of object detection implementations. Here we use person detection.
 
 import rospy
 import cv2
