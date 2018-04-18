@@ -1,5 +1,5 @@
 # TurtleBot-Follow-Person
-This repo documents our work for the ECEN 631 - Robotic Vision final project.  
+This repo documents our work for the ECEN 631 - Robotic Vision final project at BYU.  
 Here we use person tracking from a mono camera feed to get a TurtleBot following a person.
 
 The python script in this repo contains everything needed to run the person tracker on the TurtleBot.
@@ -12,3 +12,5 @@ https://github.com/jakelarsen17/TurtleBot-Follow-Person
 
 The 'MobileNetSSD' files define a trained machine learning model that can be used for a variety of 
 object detection implementations.  Here we use person detection.
+
+See the wiki attached to this repo for more detailed information on the project and how it was completed.
