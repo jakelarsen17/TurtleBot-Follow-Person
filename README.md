@@ -9,3 +9,6 @@ within that workspace.  See the following repo for help on getting ROS and the
 TurtleBot set up: https://github.com/goromal/lab_turtlebot
 This repo (for the image processing part of the project) is located here:
 https://github.com/jakelarsen17/TurtleBot-Follow-Person
+
+The 'MobileNetSSD' files define a trained machine learning model that can be used for a variety of 
+object detection implementations.  Here we use person detection.
