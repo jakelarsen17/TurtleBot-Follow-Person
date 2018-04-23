@@ -1,6 +1,7 @@
 # TurtleBot-Follow-Person
 This repo documents our work for the ECEN 631 - Robotic Vision final project at BYU.  
 Here we use person tracking from a mono camera feed to get a TurtleBot following a person.
+The YouTube video for the final result is located here: https://www.youtube.com/watch?v=_zm6L04LJxY
 
 The python script in this repo contains everything needed to run the person tracker on the TurtleBot.
 Before running on the commander machine, you need to setup a ROS catkin workspace
